@@ -2,17 +2,14 @@
 
 ArchInstaller is a simple aplication for arch Linux users, when they can install deb package.
 
-## Installation
-
-
-
 ## Usage
 
-
-
-## Contributing
+```bash
+./archinstaller.py ~/Downloads/package_name.deb
+```
 
 
 ## Authors and acknowledgment
 
-## License
+Based on [archalien](https://github.com/Asher256/archalien) of [Ashed256](https://github.com/Asher256)
+
