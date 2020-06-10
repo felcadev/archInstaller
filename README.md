@@ -1,6 +1,6 @@
 # ArchInstaller
 
-ArchInstaller is a simple aplication for arch Linux users, when they can install deb package.
+ArchInstaller is a simple aplication for arch Linux users, where you can install deb package.
 
 
 ## Usage
